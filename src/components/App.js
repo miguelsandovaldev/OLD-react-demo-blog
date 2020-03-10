@@ -5,7 +5,6 @@ const App = () => {
   return (
     <div className="ui contaner">
       <PostList />
-      test
     </div>
   );
 };
