@@ -1,5 +1,5 @@
 import { combineReducers } from "redux";
 
 export default combineReducers({
-  replaceMe: () => "hi there"
+  replaceMe: () => "this is dummy string to prevent errors from redux"
 });
